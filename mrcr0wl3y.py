@@ -2,7 +2,6 @@
 
 # < ----------------- Black Dragon Hacker Team Brazil ---------------------->
 
-
 #calling them
 
 import requests as r
@@ -54,9 +53,3 @@ if __name__ == "__main__":
         os.system('clear')
 
     banner()
-
-
-
-
-
-
