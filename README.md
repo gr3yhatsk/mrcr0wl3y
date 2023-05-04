@@ -21,5 +21,5 @@ A web admin page founder | Um localizador de páginas adminstrativas.
 
 # Black Dragon Hacker Team Brazil
 
-![photo_2023-04-11_15-14-50](https://user-images.githubusercontent.com/45762153/236315960-bb3b899b-ed31-4ddd-a000-2096fddb1d21.jpg)
+![photo_2023-04-11_15-14-50](https://user-images.githubusercontent.com/45762153/236318566-091b8868-4b86-4358-9cac-b64f3e14a1e2.jpg)
 
